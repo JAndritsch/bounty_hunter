@@ -3,7 +3,7 @@
   <Frame name="BountyHunter" parent="UIParent" toplevel="true" hidden="true">
     <Scripts>
       <OnLoad>
-        JoinTemporaryChannel("Bounty List");
+        JoinTemporaryChannel("BountyList");
       </OnLoad>
     </Scripts>
   </Frame>
