@@ -6,7 +6,7 @@ Bounty Hunter
 Bounty Hunter is a World of Warcraft addon that  allows a player to place a 
 bounty on another player's head after being ganked. 
 
-##Features
+##Description
 
 When a player dies from another player in World PvP, a dialog pops up to ask
 the user if they want to place a bounty on that player's head. If they do, they
