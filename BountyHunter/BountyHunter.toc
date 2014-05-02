@@ -1,0 +1,7 @@
+## Title: BountyHunter
+## Version: 0.1
+## Author: Jew and Zulái
+## Interface: 50400
+
+BountyHunter.xml
+BountyHunter.lua
